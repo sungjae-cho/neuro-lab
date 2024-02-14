@@ -5,8 +5,8 @@ My neuroscience lab
 
 ### Computational Neuroscience
 
-- [Computational Neuroscience. University of Washington. Coursera](https://www.coursera.org/learn/computational-neuroscience)
-- [Documentation of Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
+- [O] [Computational Neuroscience. University of Washington. Coursera](https://www.coursera.org/learn/computational-neuroscience)
+- [O] [Documentation of Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
 - [Neuronal Dynamics. EPFL. edX](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-neuronal-dynamics)
 - [Computational Neuroscience: Neuronal Dynamics of Cognition. EPFL. edX](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-computational-neuroscience-neuronal-dynamics-of-cognition)
 - [Simulation Neuroscience. EPFL. edX](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-simulation-neuroscience)
@@ -14,9 +14,9 @@ My neuroscience lab
 - [Synapses, Neurons and Brains. Hebrew University of Jerusalem. Coursera](https://www.coursera.org/learn/synapses)
 - [Neuroscience and Neuroimaging. Johns Hopkins University. Coursera](https://www.coursera.org/specializations/computational-neuroscience)
 
-## General Neuroscience
+### General Neuroscience
 
-- [Fundamentals of Neuroscience. Harvard University. edX](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
+- [O] [Fundamentals of Neuroscience. Harvard University. edX](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
 - [Medical Neuroscience. Duke University. Coursera](https://www.coursera.org/learn/medical-neuroscience)
 - [Understanding the Brain: The Neurobiology of Everyday Life. University of Chicago. Coursera](https://www.coursera.org/learn/neurobiology)
 - [Medical Neurobiology. University of Chicago. Youtube Playlist](https://www.youtube.com/playlist?list=PLAXSVuGaw0Kz_FW4VzH9eKJiNE26_J0HV)
@@ -27,13 +27,13 @@ My neuroscience lab
 - [Brain Facts, a primer on the brain and nervous system](https://www.brainfacts.org/the-brain-facts-book)
 - [Neuroscientifically Challenged](https://neuroscientificallychallenged.com/)
 
-## Systems Neuroscience
+### Systems Neuroscience
 
 - [Systems Neuroscience (online course). UCSD](https://pages.ucsd.edu/~msereno/systneurosci/)
 
-## Neuroscience on Special Topics
+### Neuroscience on Special Topics
 
-- [Cellular Mechanisms of Brain Function. EPFL. edX](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-cellular-mechanisms-of-brain-function)
+- [O] [Cellular Mechanisms of Brain Function. EPFL. edX](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-cellular-mechanisms-of-brain-function)
   - Functional Neurophysiology. Basic knowledge for computational neurosciece.
 - [Visual Perception and the Brain. Duke University. Coursera](https://www.coursera.org/learn/visual-perception)
 - [The Brain and Space. Duke University. Coursera](https://www.coursera.org/learn/human-brain)
@@ -43,4 +43,12 @@ My neuroscience lab
 - [Sleep: Neurobiology, Medicine, and Society. University of Michigan. Coursera](https://www.coursera.org/learn/sleep)
 - [An Introduction to Consumer Neuroscience & Neuromarketing. Copenhagen Business School. Coursera](https://www.coursera.org/learn/neuromarketing)
 
-## Seminars
+### Seminars
+
+## Websites
+
+- [Functional Anatomy | UBC](https://www.neuroanatomy.ca/)
+- [Allen Brain Map | Allen Institute](https://portal.brain-map.org/)
+- [Blue Brain Portal | Blue Brain Project | EPFL](https://portal.bluebrain.epfl.ch/)
+  - Open Source Software produced and used by the Blue Brain Project
+- [Tutorials | NeuroMatch: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
