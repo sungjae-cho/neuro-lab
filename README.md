@@ -21,6 +21,7 @@ My neuroscience lab
 - [Understanding the Brain: The Neurobiology of Everyday Life. University of Chicago. Coursera](https://www.coursera.org/learn/neurobiology)
 - [Medical Neurobiology. University of Chicago. Youtube Playlist](https://www.youtube.com/playlist?list=PLAXSVuGaw0Kz_FW4VzH9eKJiNE26_J0HV)
 - [Introduction to Neuroscience. Bing Wen Brunton. University of Washington](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
+- [ClassCentral Neuroscience course list](https://www.classcentral.com/subject/neuroscience)
 - [edX Neuroscience course list](https://www.edx.org/learn/neuroscience)
 - [UTHealth Online Neuroscience Textbook](https://nba.uth.tmc.edu/neuroscience/)
 - [Neuroscience: Science of the Brain : an Introduction for Young Students](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf)
@@ -52,3 +53,9 @@ My neuroscience lab
 - [Blue Brain Portal | Blue Brain Project | EPFL](https://portal.bluebrain.epfl.ch/)
   - Open Source Software produced and used by the Blue Brain Project
 - [Tutorials | NeuroMatch: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
+
+## Simulation
+
+- [Neuronal Dynamics: Python Exercises](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
+- [Brian 2](https://brian2.readthedocs.io/en/stable/)
+- [Blue Brain SNAP](https://bluebrainsnap.readthedocs.io/en/stable/index.html)
