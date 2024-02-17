@@ -1,5 +1,7 @@
 # My Neuroscience Lab
-My neuroscience lab
+
+- My neuroscience lab
+- **How to study neuroscience?** Neuroscience is an interdisciplinary field for understanding the nervous systems. Depending on nervous systems, functions and methods, its subfields vary. In general neuroscience textbooks, the subfields are outlined in each chapter or section. If a subfield is large enough (e.g., cognitive neuroscience) or well established (e.g., neuroanatomy, computational neuroscience), then it commonly has its own field and textbooks. It is natural that textbooks do not exist in a subfield, which implies the subfield is actively changing. Accordingly, it is common to read review and historical papers to comprehend the subfield.
 
 ## Online courses
 
